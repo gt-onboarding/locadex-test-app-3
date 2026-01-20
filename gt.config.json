@@ -4,7 +4,11 @@
     "en",
     "es",
     "ja",
-    "zh"
+    "zh",
+    "fr",
+    "de",
+    "pt-BR",
+    "it"
   ],
   "defaultLocale": "en",
   "files": {
