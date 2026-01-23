@@ -2,9 +2,7 @@
   "$schema": "https://assets.gtx.dev/config-schema.json",
   "locales": [
     "en",
-    "es",
-    "ja",
-    "zh"
+    "es"
   ],
   "defaultLocale": "en",
   "files": {
@@ -13,5 +11,6 @@
     }
   },
   "framework": "next-app",
-  "_versionId": "0197f11dfae336bb233c7765a193193a10c2c9a4ba59b44e0b23951aeeed3a41"
+  "_versionId": "0197f11dfae336bb233c7765a193193a10c2c9a4ba59b44e0b23951aeeed3a41",
+  "baseUrl": "sherell-equisetic-philip.ngrok-free.dev"
 }
